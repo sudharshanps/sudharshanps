@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:001a00&height=220&section=header&text=SUDHARSHAN%20P%20S&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=%3C%20Cyber%20Security%20%7C%20AI%20%7C%20Full%20Stack%20%3E&descAlignY=58&descSize=20&descColor=39FF14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:001a00&height=220&section=header&text=SUDHARSHAN%20P%20S&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Cyber%20Security%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=20&descColor=39FF14" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=750&lines=root%40sudharshanps%3A~%23+whoami;Cyber+Security+Student+%7C+AI+Developer;sudo+access+granted+%E2%9C%93;Building+secure+systems+%26+smart+machines" alt="Typing SVG" />
 
