@@ -108,7 +108,7 @@ Professional course & internship certifications
 <div align="center">
 
 <b>Inventory breakdown by language</b><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshanps&layout=pie&theme=tokyonight&hide_border=true" alt="Top languages pie chart" />
+<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=sudharshanps&layout=pie&theme=tokyonight&hide_border=true" alt="Top languages pie chart" />
 
 <br/><br/>
 
@@ -117,9 +117,31 @@ Professional course & internship certifications
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudharshanps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.zcy.dev/api?username=sudharshanps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshanps&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header" width="100%"/>
+
+## 🧮 Coding Arsenal — LeetCode Performance
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2200&pause=600&color=2A9DF4&center=true&vCenter=true&width=550&lines=Solving+one+problem+at+a+time...;Stocking+up+on+algorithms...;Inventory%3A+Arrays%2C+DP%2C+Graphs%2C+Trees" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/sudharshan_18_ps?theme=dark&font=Fira%20Code&extension=heatmap" alt="Sudharshan's LeetCode stats" />
+
+<br/><br/>
+
+<a href="https://leetcode.com/sudharshan_18_ps"><img src="https://img.shields.io/badge/🛒-View_Full_Profile-2a5298?style=for-the-badge" /></a>
 
 </div>
 
