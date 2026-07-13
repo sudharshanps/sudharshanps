@@ -25,52 +25,68 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header" width="100%"/>
+
 ## 🛍️ Featured Products
 
 <table>
 <tr>
-<th>Product</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Price</th>
-<th></th>
-</tr>
+<td width="50%" valign="top" align="center">
 
+<img src="./assets/portfolio.gif" width="100%" alt="Developer Portfolio animated preview" />
+
+**🖥️ Developer Portfolio**
+Personal dev portfolio site
+`HTML` `CSS` `JS`
+⭐ Free — Open Source
+
+[![View Repo](https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge)](https://github.com/sudharshanps/727724eucy106-ps)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="./assets/hackademia.gif" width="100%" alt="Hackademia AI Invigilation animated preview" />
+
+**👁️ Hackademia — AI Invigilation**
+Real-time AI proctoring system that flags suspicious exam behavior
+`OpenCV` `MediaPipe` `FastAPI`
+⭐⭐⭐ Featured Item
+
+[![View Repo](https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge)](https://github.com/sudharshanps/hackademia-ai-invigilation)
+
+</td>
+</tr>
 <tr>
-<td><b>🖥️ Developer Portfolio</b></td>
-<td>Personal dev portfolio site</td>
-<td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
-<td>⭐ Free — Open Source</td>
-<td><a href="https://github.com/sudharshanps/727724eucy106-ps"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
-</tr>
+<td width="50%" valign="top" align="center">
 
-<tr>
-<td><b>👁️ Hackademia — AI Invigilation</b></td>
-<td>Real-time AI proctoring system that flags suspicious exam behavior</td>
-<td><code>OpenCV</code> <code>MediaPipe</code> <code>FastAPI</code></td>
-<td>⭐⭐⭐ Featured Item</td>
-<td><a href="https://github.com/sudharshanps/hackademia-ai-invigilation"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
-</tr>
+<img src="./assets/syllabus.gif" width="100%" alt="Syllabus Management System animated preview" />
 
-<tr>
-<td><b>📚 Syllabus Management System</b></td>
-<td>Tracks subjects, syllabi, instructors & performance</td>
-<td><code>Java</code></td>
-<td>⭐ Free — Open Source</td>
-<td><a href="https://github.com/sudharshanps/School-Subject-Syllabus-Management-System"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
-</tr>
+**📚 Syllabus Management System**
+Tracks subjects, syllabi, instructors & performance
+`Java`
+⭐ Free — Open Source
 
-<tr>
-<td><b>📜 Certificates</b></td>
-<td>Professional course & internship certifications</td>
-<td><code>Docs</code></td>
-<td>🏆 Not for Sale</td>
-<td><a href="https://github.com/sudharshanps/Certificates"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
-</tr>
+[![View Repo](https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge)](https://github.com/sudharshanps/School-Subject-Syllabus-Management-System)
 
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="./assets/certificates.gif" width="100%" alt="Certificates animated preview" />
+
+**📜 Certificates**
+Professional course & internship certifications
+`Docs`
+🏆 Not for Sale
+
+[![View Repo](https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge)](https://github.com/sudharshanps/Certificates)
+
+</td>
+</tr>
 </table>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header" width="100%"/>
 
 ## 🔖 Product Tags (Tech Stack)
 
@@ -84,6 +100,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header" width="100%"/>
 
 ## 📊 Store Analytics
 
@@ -110,6 +128,8 @@
 ## 🧾 Checkout
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2200&pause=600&color=2A9DF4&center=true&vCenter=true&width=550&lines=Processing+your+interest...;Adding+collaboration+to+cart...;Ready+when+you+are+%F0%9F%9A%80" alt="Typing SVG" />
 
 **Interested in a collab, hire, or just a chat?**
 
