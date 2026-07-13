@@ -1,138 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:001a00&height=220&section=header&text=SUDHARSHAN%20P%20S&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Cyber%20Security%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=20&descColor=39FF14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=SUDHARSHAN'S%20DEV%20STORE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20AI%20%7C%20Full%20Stack%20—%20Now%20Open&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=750&lines=root%40sudharshanps%3A~%23+whoami;Cyber+Security+Student+%7C+AI+Developer;sudo+access+granted+%E2%9C%93;Building+secure+systems+%26+smart+machines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2A9DF4&center=true&vCenter=true&width=650&lines=Welcome+to+the+store+%F0%9F%9B%92;New+arrivals%3A+AI-powered+projects;Free+shipping+on+all+open-source+code" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/sudharshan-ps-5a6b9a325)
-[![GitHub followers](https://img.shields.io/github/followers/sudharshanps?style=for-the-badge&color=00FF41&label=FOLLOWERS&labelColor=000000)](https://github.com/sudharshanps?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=sudharshanps&style=for-the-badge&color=00FF41&label=VISITORS&labelColor=000000)](https://github.com/sudharshanps)
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-39FF14?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/MODE-HACKER-39FF14?style=flat-square&labelColor=000000" />
+![Store Status](https://img.shields.io/badge/STORE-OPEN-brightgreen?style=for-the-badge)
+![Shipping](https://img.shields.io/badge/SHIPPING-WORLDWIDE-blue?style=for-the-badge)
+[![Visitors](https://komarev.com/ghpvc/?username=sudharshanps&style=for-the-badge&color=orange&label=VISITORS)](https://github.com/sudharshanps)
 
 </div>
 
-<br/>
+---
 
-```bash
-> cat about_me.txt
-```
+## 🏷️ Storefront
 
-- 🎓 `edu:` Sri Krishna College of Engineering and Technology, Coimbatore
-- 🔐 `focus:` Cyber Security — breaking things to understand how to defend them
-- 🤖 `builds:` AI-powered tools, computer vision systems, full-stack applications
-- 🌱 `learning:` Offensive security, secure system design, applied AI
-- 🤝 `open_to:` AI security tools, CV/ML projects, collaborative builds
-- 📡 `contact:` [LinkedIn](https://www.linkedin.com/in/sudharshan-ps-5a6b9a325)
+| | |
+|---|---|
+| 🎓 **Brand origin** | Sri Krishna College of Engineering and Technology, Coimbatore |
+| 🔐 **Specialty** | Cyber Security, applied AI, full-stack builds |
+| 🚚 **Currently shipping** | AI-powered security & automation tools |
+| 💬 **Customer support** | [LinkedIn](https://www.linkedin.com/in/sudharshan-ps-5a6b9a325) |
 
-<br/>
+---
 
-```bash
-> ls -la ./projects
-```
+## 🛍️ Featured Products
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[🖥️ Developer Portfolio](https://github.com/sudharshanps/727724eucy106-ps)**
-My personal dev portfolio site
-`HTML` `CSS` `JS`
-
-</td>
-<td width="50%" valign="top">
-
-**[👁️ Hackademia — AI Invigilation](https://github.com/sudharshanps/hackademia-ai-invigilation)**
-Real-time AI proctoring system that flags suspicious exam behavior
-`OpenCV` `MediaPipe` `FastAPI` `JS`
-
-</td>
+<th>Product</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Price</th>
+<th></th>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-
-**[📚 Syllabus Management System](https://github.com/sudharshanps/School-Subject-Syllabus-Management-System)**
-Tracks subjects, syllabi, instructors & student performance
-`Java`
-
-</td>
-<td width="50%" valign="top">
-
-**[📜 Certificates](https://github.com/sudharshanps/Certificates)**
-Professional course & internship certifications
-`Docs`
-
-</td>
+<td><b>🖥️ Developer Portfolio</b></td>
+<td>Personal dev portfolio site</td>
+<td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+<td>⭐ Free — Open Source</td>
+<td><a href="https://github.com/sudharshanps/727724eucy106-ps"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
 </tr>
+
+<tr>
+<td><b>👁️ Hackademia — AI Invigilation</b></td>
+<td>Real-time AI proctoring system that flags suspicious exam behavior</td>
+<td><code>OpenCV</code> <code>MediaPipe</code> <code>FastAPI</code></td>
+<td>⭐⭐⭐ Featured Item</td>
+<td><a href="https://github.com/sudharshanps/hackademia-ai-invigilation"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
+</tr>
+
+<tr>
+<td><b>📚 Syllabus Management System</b></td>
+<td>Tracks subjects, syllabi, instructors & performance</td>
+<td><code>Java</code></td>
+<td>⭐ Free — Open Source</td>
+<td><a href="https://github.com/sudharshanps/School-Subject-Syllabus-Management-System"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
+</tr>
+
+<tr>
+<td><b>📜 Certificates</b></td>
+<td>Professional course & internship certifications</td>
+<td><code>Docs</code></td>
+<td>🏆 Not for Sale</td>
+<td><a href="https://github.com/sudharshanps/Certificates"><img src="https://img.shields.io/badge/🛒-View_Repo-2a5298?style=for-the-badge" /></a></td>
+</tr>
+
 </table>
 
-<br/>
+---
 
-```bash
-> nmap -sV tech_stack
-```
+## 🔖 Product Tags (Tech Stack)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Store Analytics
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14)
+<b>Inventory breakdown by language</b><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshanps&layout=pie&theme=tokyonight&hide_border=true" alt="Top languages pie chart" />
 
-![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14)
-![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-000000?style=for-the-badge&logo=google&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+<br/><br/>
 
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14)
-![Kali Linux](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+<b>Sales activity (contribution graph)</b><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshanps&theme=react-dark&hide_border=true&area=true" alt="Contribution activity bar/area graph" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudharshanps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshanps&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-<br/>
+---
 
-```bash
-> ./run_diagnostics.sh --stats
-```
+## 🧾 Checkout
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudharshanps&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=00FF41&border_color=39FF14&count_private=true" alt="Sudharshan's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshanps&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF41&border_color=39FF14" alt="Top Languages"/>
+**Interested in a collab, hire, or just a chat?**
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROCEED_TO_CHECKOUT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshan-ps-5a6b9a325)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshanps&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FF41&dates=00FF41&currStreakNum=39FF14&sideNums=39FF14" alt="GitHub Streak"/>
+📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🔁 30-day reply guarantee &nbsp;|&nbsp; 💬 Free consultation
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
 
-<br/>
-
-```bash
-> ./contribution_snake.sh
-```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sudharshanps/sudharshanps/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
-</div>
-
-> 🐍 A snake that eats through your contribution graph — needs a one-time GitHub Action setup (included separately).
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0d1f0d,100:000000&height=140&section=footer" />
-
-`📍 Coimbatore, Tamil Nadu, India` &nbsp;|&nbsp; `💼` [LinkedIn](https://www.linkedin.com/in/sudharshan-ps-5a6b9a325)
-
-**`> echo "thanks for visiting"`**
-**`> exit 0`**
+⭐️ *Thanks for shopping — come back soon!*
 
 </div>
